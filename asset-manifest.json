@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crw-cloth/static/css/main.073c9b0a.css",
+    "main.js": "/crw-cloth/static/js/main.164d22dc.js",
+    "index.html": "/crw-cloth/index.html",
+    "main.073c9b0a.css.map": "/crw-cloth/static/css/main.073c9b0a.css.map",
+    "main.164d22dc.js.map": "/crw-cloth/static/js/main.164d22dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.164d22dc.js"
+  ]
+}
